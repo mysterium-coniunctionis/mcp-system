@@ -1,1 +1,81 @@
-IyBNQ1AgU3lzdGVtOiBBIExlYXJuaW5nIEpvdXJuZXkgaW4gQUkgRGV2ZWxvcG1lbnQKCkEgY29tcHJlaGVuc2l2ZSBwcm9qZWN0IHRoYXQgY29tYmluZXMgTW9kZWwgQ29udGV4dCBQcm90b2NvbCAoTUNQKSBpbXBsZW1lbnRhdGlvbiB3aXRoIGEgc3RydWN0dXJlZCBsZWFybmluZyBqb3VybmV5IGluIEFJIGRldmVsb3BtZW50LgoKIyMgUHJvamVjdCBPdmVydmlldwoKVGhpcyByZXBvc2l0b3J5IHNlcnZlcyB0d28gbWFpbiBwdXJwb3NlczoKCjEuICoqTUNQIFN5c3RlbSBJbXBsZW1lbnRhdGlvbioqOiBBIGZ1bGx5LWZ1bmN0aW9uYWwgTUNQIHNlcnZlciB3aXRoIHRvb2xzIGFuZCB1dGlsaXRpZXMKMi4gKipMZWFybmluZyBQb3J0Zm9saW8qKjogQSBkb2N1bWVudGVkIGpvdXJuZXkgZnJvbSBwc3ljaG9sb2d5IHRvIEFJIGRldmVsb3BtZW50CgojIyBQcm9qZWN0IFN0cnVjdHVyZQoKYGBgCm1jcC1zeXN0ZW0vCuKUgOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAjIERvY3VtZW50YXRpb24gYW5kIGxlYXJuaW5nIHJlc291cmNlcwrilIDilIDilIAgc3JjLyAgICAgICAgICAgICAgIyBTb3VyY2UgY29kZQrilIDilIDilIAgdGVzdHMvICAgICAgICAgICAgIyBUZXN0IHN1aXRlcwrilIDilIDilIAgZXhhbXBsZXMvICAgICAgICAgIyBVc2FnZSBleGFtcGxlcwrilIDilIDilIAgdG9vbHMvICAgICAgICAgICAgICMgRGV2ZWxvcG1lbnQgdG9vbHMK4pSA4pSA4pSAIFJFQURNRS5tZArilIDilIDilIAgQ09OVFJJQlVUSU5HLm1kCmBgYAoKIyMgR2V0dGluZyBTdGFydGVkCgoxLiAqKlByb2plY3QgVHJhY2tpbmcqKgogICAtIFtQcm9qZWN0IEJvYXJkXShodHRwczovL2dpdGh1Yi5jb20vbXlzdGVyaXVtLWNvbml1bmN0aW9uaXMvbWNwLXN5c3RlbS9wcm9qZWN0cy8xKQogICAtIFtJc3N1ZXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9teXN0ZXJpdW0tY29uaXVuY3Rpb25pcy9tY3Atc3lzdGVtL2lzc3VlcykKICAgLSBbTWlsZXN0b25lc10oaHR0cHM6Ly9naXRodWIuY29tL215c3Rlcml1bS1jb25pdW5jdGlvbmlzL21jcC1zeXN0ZW0vbWlsZXN0b25lcykKCjIuICoqRGV2ZWxvcG1lbnQgU2V0dXAqKgogICAtIFtJbnN0YWxsYXRpb24gR3VpZGVdKGRvY3MvdGVjaG5pY2FsL2luc3RhbGxhdGlvbi5tZCkKICAgLSBbRGV2ZWxvcG1lbnQgR3VpZGVsaW5lc10oZG9jcy90ZWNobmljYWwvZGV2ZWxvcG1lbnQubWQpCiAgIC0gW1Rlc3RpbmcgR3VpZGVdKGRvY3MvdGVjaG5pY2FsL3Rlc3RpbmcubWQpCgozLiAqKkxlYXJuaW5nIFJlc291cmNlcyoqCiAgIC0gW0xlYXJuaW5nIFBhdGhdKGRvY3MvbGVhcm5pbmcvcGF0aC5tZCkKICAgLSBbQ2FzZSBTdHVkaWVzXShkb2NzL3BvcnRmb2xpby9jYXNlLXN0dWRpZXMubWQpCiAgIC0gW1Byb2plY3QgU2hvd2Nhc2VzXShkb2NzL3BvcnRmb2xpby9zaG93Y2FzZXMubWQpCgojIyBGZWF0dXJlcwoKMS4gKipNQ1AgSW1wbGVtZW50YXRpb24qKgogICAtIFRvb2wgZGV2ZWxvcG1lbnQKICAgLSBSZXNvdXJjZSBtYW5hZ2VtZW50CiAgIC0gQ29udGV4dCBoYW5kbGluZwoKMi4gKipBSSBJbnRlZ3JhdGlvbioqCiAgIC0gTW9kZWwgaW50ZXJhY3Rpb24KICAgLSBEYXRhIHByb2Nlc3NpbmcKICAgLSBBbmFseXNpcyB0b29scwoKMy4gKipQc3ljaG9sb2d5LUFJIEZlYXR1cmVzKioKICAgLSBEYXRhIGFuYWx5c2lzCiAgIC0gUmVzZWFyY2ggdG9vbHMKICAgLSBDbGluaWNhbCBhcHBsaWNhdGlvbnMKCiMjIENvbnRyaWJ1dGluZwoKVGhpcyBwcm9qZWN0IHNlcnZlcyBhcyBhIGxlYXJuaW5nIGpvdXJuZXkuIFlvdSBjYW4gY29udHJpYnV0ZSBieToKCjEuIEZvbGxvd2luZyB0aGUgbGVhcm5pbmcgcGF0aAoyLiBTdWdnZXN0aW5nIGltcHJvdmVtZW50cwozLiBTaGFyaW5nIHlvdXIgb3duIGxlYXJuaW5nIGV4cGVyaWVuY2VzCgpTZWUgW0NPTlRSSUJVVElORy5tZF0oQ09OVFJJQlVUSU5HLm1kKSBmb3IgZGV0YWlscy4KCiMjIExpY2Vuc2UKClRoaXMgcHJvamVjdCBpcyBsaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UgLSBzZWUgdGhlIFtMSUNFTlNFXShMSUNFTlNFKSBmaWxlIGZvciBkZXRhaWxzLgoKIyMgUHJvamVjdCBTdGF0dXMKCi0gW3hdIEluaXRpYWwgc2V0dXAKLSBbeF0gUHJvamVjdCBzdHJ1Y3R1cmUKLSBbIF0gQmFzaWMgTUNQIGltcGxlbWVudGF0aW9uCi0gWyBdIERvY3VtZW50YXRpb24gZnJhbWV3b3JrCi0gWyBdIExlYXJuaW5nIHJlc291cmNlcwotIFsgXSBQb3J0Zm9saW8gc2hvd2Nhc2VzCg==
+# MCP System: A Learning Journey in AI Development
+
+A comprehensive project that combines Model Context Protocol (MCP) implementation with a structured learning journey in AI development.
+
+## Project Overview
+
+This repository serves two main purposes:
+
+1. **MCP System Implementation**: A fully-functional MCP server with tools and utilities
+2. **Learning Portfolio**: A documented journey from psychology to AI development
+
+## Project Structure
+
+```
+mcp-system/
+├── docs/           # Documentation and learning resources
+├── src/           # Source code
+├── tests/         # Test suites
+├── examples/      # Usage examples
+├── tools/         # Development tools
+├── README.md
+└── CONTRIBUTING.md
+```
+
+## Getting Started
+
+1. **Project Tracking**
+   - [Project Board](https://github.com/mysterium-coniunctionis/mcp-system/projects)
+   - [Wiki Documentation](https://github.com/mysterium-coniunctionis/mcp-system/wiki)
+   - [Issues](https://github.com/mysterium-coniunctionis/mcp-system/issues)
+   - [Milestones](https://github.com/mysterium-coniunctionis/mcp-system/milestones)
+
+2. **Development Setup**
+   - See [Installation Guide](wiki/Installation)
+   - See [Development Guidelines](wiki/Development)
+   - See [Testing Guide](wiki/Testing)
+
+3. **Learning Resources**
+   - [Learning Path](wiki/Learning-Path)
+   - [Case Studies](wiki/Case-Studies)
+   - [Project Showcases](wiki/Project-Showcases)
+
+## Features
+
+1. **MCP Implementation**
+   - Tool development
+   - Resource management
+   - Context handling
+
+2. **AI Integration**
+   - Model interaction
+   - Data processing
+   - Analysis tools
+
+3. **Psychology-AI Features**
+   - Data analysis
+   - Research tools
+   - Clinical applications
+
+## Contributing
+
+This project serves as a learning journey. You can contribute by:
+
+1. Following the learning path
+2. Suggesting improvements
+3. Sharing your own learning experiences
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Project Status
+
+- [x] Initial setup
+- [x] Project structure
+- [ ] Basic MCP implementation
+- [ ] Documentation framework
+- [ ] Learning resources
+- [ ] Portfolio showcases
